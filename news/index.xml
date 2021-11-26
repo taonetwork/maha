@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on Superphysics: A New Science</title>
+    <link>https://superphysics.one/news/</link>
+    <description>Recent content in News on Superphysics: A New Science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://superphysics.one/news/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

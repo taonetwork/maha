@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Superphysics Solutions on Superphysics: A New Science</title>
+    <link>https://superphysics.one/solutions/superphysics/</link>
+    <description>Recent content in Superphysics Solutions on Superphysics: A New Science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://superphysics.one/solutions/superphysics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bullet-style Writing</title>
+      <link>https://superphysics.one/solutions/superphysics/bullet-style-writing/</link>
+      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://superphysics.one/solutions/superphysics/bullet-style-writing/</guid>
+      <description>The advent of the internet allowed information to be shared globally, resulting in &amp;lsquo;information overload&amp;rsquo;. However, this increase in the quantity of information being perceived did not really come from new information, but instead came from already-existing information from various sources being made accessible to the user or perceiver.
+Assuming that there are 100 million people in a country, and a person creates his own information and interacts with 100 people in a day, then he can perceive up to 100 units of information.</description>
+    </item>
+    
+    <item>
+      <title>How to Fix Math</title>
+      <link>https://superphysics.one/solutions/superphysics/how-to-fix-math/</link>
+      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://superphysics.one/solutions/superphysics/how-to-fix-math/</guid>
+      <description>A major turn-off in math is the use of arbitrary variables in equations, usually written in Greek characters. This burdens the mind which has to know what those variables mean just to make sense of of the whole equation. An error in one character will nullify the understanding of the whole equation and makes its output wrong.
+To make math fun again, we can create a method called decon notation, which deconstructs those arbitrary Greek variables back into plain English.</description>
+    </item>
+    
+  </channel>
+</rss>
